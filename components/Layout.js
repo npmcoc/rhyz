@@ -10,8 +10,8 @@ export default function Layout({ children, clans = [] }) {
     <>
       <Head>
         <title>Fabulous Flame</title>
-        <link rel="icon" href="/favicon.ico" />
-        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="/favicon.ico?v=3" />
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=3" />
       </Head>
 
       <div className="site">
