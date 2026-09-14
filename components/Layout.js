@@ -9,7 +9,7 @@ export default function Layout({ children, clans = [] }) {
   return (
     <>
       <Head>
-        <title>Dark Matter Alliance</title>
+        <title>SPARTA ALLIANCE</title>
         <link rel="icon" type="image/x-icon" href="/favicon.ico?v=3" />
         <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?v=3" />
       </Head>
